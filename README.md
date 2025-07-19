@@ -1,16 +1,42 @@
-## Hi there 👋
+# LitQuench 🍋
 
-<!--
-**LitQuench/LitQuench** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**LitQuench** is a bold, minty-fresh sparkling drink brand designed to turn every sip into a statement.
 
-Here are some ideas to get you started:
+🌟 **Slogan:** Refresh your grind.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is the official landing page for LitQuench — coded with HTML, CSS, and JavaScript. Hosted with GitHub Pages.
+
+---
+
+## 🔗 Live Site
+
+👉 [https://yourusername.github.io/litquench](https://yourusername.github.io/litquench)
+
+---
+
+## 📁 What's Inside
+
+- `index.html` — The homepage
+- `style.css` — Styles and branding
+- `script.js` — (Optional) Interactive effects
+- `/images` — Logo, backgrounds, and visuals
+
+---
+
+## 🚀 Built With
+
+- HTML5
+- CSS3
+- JavaScript
+- GitHub Pages
+
+---
+
+## 📬 Contact
+
+📧 Email: info@litquench.co.za  
+📸 Instagram: [@litquenchza](https://instagram.com/litquenchza)
+
+---
+
+© 2025 LitQuench. All rights reserved.
